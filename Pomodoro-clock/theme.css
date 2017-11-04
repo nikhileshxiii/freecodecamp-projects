@@ -1,0 +1,27 @@
+.center{
+  width:80%;
+  margin: auto;
+  text-align: center;
+/*   background-color: gray; */
+}
+
+.row{
+  padding: 1rem;
+}
+
+#type{
+  font-size: 5em;
+}
+
+
+#session_time{
+  height: 10rem;
+  width: 10rem;
+  margin: auto;
+  padding-top: 6rem;
+  border: 1px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 100%;
+  font-size: 2rem;
+}

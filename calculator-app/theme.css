@@ -1,0 +1,29 @@
+.center {
+  margin: auto;
+  padding: 1rem;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid gray;
+  border-radius: 3em;
+}
+#calc {
+  width: 50%;
+}
+
+#spanElement {
+  margin-right: 4rem;
+  width: 70%;
+}
+
+#calcOut{
+  padding-top: 1rem;
+/*   padding-right: 4rem; */
+  text-align: right;
+}
+
+.btn{
+  margin: 5px;
+  width: 2.6vm;
+  height: 2.6vm;
+}
