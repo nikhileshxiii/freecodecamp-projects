@@ -1,0 +1,23 @@
+h1, h2{
+  text-align : center;
+}
+
+.heading {
+  background-color: gray;
+  padding: 2%;
+}
+
+.details{
+  background-color: lightgray;
+  padding: 2%;
+}
+
+.outer {
+  align: center;
+  margin: 10%;
+
+}
+
+body {
+    background-color: white;
+}

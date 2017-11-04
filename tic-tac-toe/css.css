@@ -1,0 +1,12 @@
+.row{
+  height: 6rem;
+  width: 18rem;
+  margin-left: 35%;
+}
+
+#container{
+  text-align: center;
+  vertical-align: middle;
+  padding: auto;
+
+}

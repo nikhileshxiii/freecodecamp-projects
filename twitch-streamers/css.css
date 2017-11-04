@@ -1,0 +1,15 @@
+.center{
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+.row{
+  padding: 10px;
+  text-align: center;
+}
+
+.hidden {
+visibility: hidden;
+display: none;
+}
